@@ -1,0 +1,11 @@
+# Site settings
+title: Nathan Yee
+email: ny.nathan.yee@gmail.com
+description: "My personal webpage and blog."
+baseurl: ""
+url: "http://www.nateyee.com"
+github_username: delta-nry
+
+# Build settings
+markdown: kramdown
+permalink: pretty
