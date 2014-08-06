@@ -1,0 +1,12 @@
+---
+layout: post
+title: Is Software Engineering "Real" Engineering?
+---
+
+I plan to graduate with a software engineering degree, but I've always had the notion that software engineering doesn't have the credibility that other engineering disciplines have. [Terence Parr](http://parrt.cs.usfca.edu/doc/software-not-engineering.html) argues that software development is not like engineering and that "the term 'software engineering' is more a goal than how we actually write software." Parr does give good arguments describing the difficulty and non-intuitive nature of software engineering, but the arguments made do not necessarily discredit the engineering basis of the field.
+
+Parr argues that unlike physical components, software components do not exist in the real world and are harder to visualize and more unpredictable. Parr also adds that software engineering has more midcourse design changes than "real" engineering fields. However, object-oriented programming exists to facilitate the more intuitive notion of real-world objects to software. Additionally, judicious unit testing can mitigate unpredictability in software. Midcourse design changes are presumably a management problem, and I stress that more people ought to acknowledge that there are limits to software malleability before the integrity of an entire software system breaks. Even though software is harder to spatially and intuitively grasp, it is still akin to physical systems and subject to proper engineering practices.
+
+Software engineering appears to be the process of taking near-infinite (if not completely infinite) complexity and arranging it in a way that is sensible to humans. The vast amount of flawed, overbudget and failed software systems is not necessarily a symptom of incompetence in the field, but certainly is a symptom of managing such vast complexity. With near-absent physical constraints, software engineering is arguably just as, if not more difficult than "real" engineering.
+
+But complexity is not only to blame; integrity is to blame as well. Virtually all of our software comes with no warranty. Most people don't guarantee that their software will work perfectly, and software engineers with integrity should be able to make this guarantee. Software engineers, their work, their responsibilities and their liabilities ought to be treated with the same scrutiny as "real" engineers. Only then will they have no doubt that software engineering has credibility.
