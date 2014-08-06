@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Nathan Yee's homepage.
+Nathan Yee
+----------
+I am a computer engineering student.
