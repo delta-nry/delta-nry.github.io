@@ -1,10 +1,16 @@
 # Site settings
 title: Nathan Yee
-description: "My personal webpage and blog."
+description: "My personal webpage."
 baseurl: ""
 url: "http://www.nateyee.com"
 github_username: delta-nry
+links_description: Links
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# If you used `bundle install --path vendor/bundle` instead of `bundle install`
+# then this line is needed in order for `bundle exec jekyll serve` to work.
+# See https://github.com/jekyll/jekyll/issues/2938 for details.
+exclude: [vendor]

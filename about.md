@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Nathan Yee
-----------
-I am a computer engineering student studying at the University of British Columbia, and was an App Developer at [The Ubyssey](http://ubyssey.ca/).
+I am a computer engineering student studying at the University of British
+Columbia. Some of my past achievements include participating in Google Summer of
+Code 2015 and my role as an App Developer at [The Ubyssey](http://ubyssey.ca/).
