@@ -4,6 +4,7 @@ description: "My personal webpage."
 baseurl: ""
 url: "http://www.nateyee.com"
 github_username: delta-nry
+twitter_username: NathanRobertYee
 links_description: Links
 
 # Build settings
