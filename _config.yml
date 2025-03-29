@@ -1,8 +1,8 @@
 # Site settings
 title: Nathan Yee
-description: "My personal webpage."
+description: "My GitHub Pages website."
 baseurl: ""
-url: "https://www.nateyee.com"
+url: "https://delta-nry.github.io/"
 github_username: delta-nry
 links_description: Links
 
